@@ -49,6 +49,7 @@ git checkout -b fb1
 [modify the file locally and save it]
 git add .
 git commit -m <message>
+modify file in repo
 git fetch origin
 git rebase origin/main
 [if automerging works program is complete if not follow next]
