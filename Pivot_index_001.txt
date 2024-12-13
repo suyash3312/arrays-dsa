@@ -55,10 +55,11 @@ git rebase origin/main
 [open the file and remove head markers and save it]
 git add .
 git rebase --continue
+git push origin main
 -------PGM6------------
 git checkout main
 git merge fb1
-git push origin main
+
 -------PGM7------------
 mkdir pgm7
 git init
